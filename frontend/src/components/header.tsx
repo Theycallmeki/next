@@ -7,7 +7,7 @@ export default function Header() {
         <Link href="/" style={{ marginRight: "1rem" }}>
           Home
         </Link>
-        <Link href="/about">About.</Link>
+        <Link href="/about">din tai fung</Link>
       </nav>
     </header>
   );
