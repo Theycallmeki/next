@@ -2,7 +2,7 @@
 export default function Homepage() {
   return (
     <section>
-      <h1>welcome to the homepage.</h1>
+      <h1>welcome to the homepagea.</h1>
     </section>
   );
 }
